@@ -1,0 +1,36 @@
+[{
+    "question": "How do you insert comments in Python code?",
+    "answers":
+        [{"text": "%","correct": false},
+        {"text": "#","correct": true},
+        {"text": "$","correct": false}]
+},
+{
+	"question": "Which of these collections defines a LIST?",
+    "answers":
+        [{"text": "['blue', 'yellow', 'red']","correct": true},
+        {"text": "{'blue', 'yellow', 'red'}","correct": false},
+        {"text": "('blue', 'yellow', 'red')","correct": false}]
+ },
+ {
+	"question": "Which of these collections defines a DICTIONARY",
+    "answers":
+        [{"text": "{'car_1': 'blue','car_2': 'yellow',car_3':  'red'}","correct": true},
+        {"text": "['car_1': 'blue','car_2': 'yellow',car_3';  'red']","correct": false},
+        {"text": "('car_1': 'blue','car_2', 'yellow',car_3':  'red')","correct": false}]
+ },
+ {
+	"question": "What will be the correct result of the expression 2 + 3 * 4?",
+    "answers":
+        [{"text": "14","correct": true},
+        {"text": "seven","correct": false},
+        {"text": "24","correct": false}]
+ },
+ {
+	"question": "What type of data is entered by the user via input() statements?",
+    "answers":
+        [{"text": "int","correct": false},
+        {"text": "float","correct": false},
+        {"text": "str","correct": true}]
+ }
+ ]
